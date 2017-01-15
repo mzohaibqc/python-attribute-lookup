@@ -1,4 +1,4 @@
-# python-attribute-lookup
+# Python: Attribute Lookup
 This repo contains some examples / code snippet to explain the attribute-lookup in Python for objects and class.
 
 Whole idea is to explain using code and evidences :)
